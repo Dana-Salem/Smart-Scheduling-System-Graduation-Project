@@ -28,3 +28,4 @@ The system also includes AI-powered schedule ranking using Gemini API to help st
 - Source code ZIP file
 - Project documentation
 - Presentation
+- Project Poster
